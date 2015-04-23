@@ -960,7 +960,7 @@ function del_f_pass() {
   del_otp_forget_pass( get_current_user_id(),$_COOKIE['otp_fid']);
 }
 function vancosys_menu_page(){
-    add_menu_page( 'OTP Vancosys settings', 'OTP Vancosys', 'read', 'OTP_Vancosys', 'add_user_opt', plugins_url( 'wp-otp-vancosys/Header.png' ), 6 ); 
+    add_menu_page( 'OTP Vancosys settings', 'OTP Vancosys', 'read', 'OTP_Vancosys', 'add_user_opt', plugins_url( 'one-time-password-vancosys/Header.png' ), 6 ); 
 	}
 
 function register_session(){
