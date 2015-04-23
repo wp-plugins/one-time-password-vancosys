@@ -11,21 +11,23 @@ License URI: http://www.gnu.org/licenses/gpl-2.0.html
 The OTP Vancosys Authenticator plugin for WordPress gives you two-factor authentication by  token.
 == Description ==
 We just wanted you to know that we truly feel honored to be your chosen Two Factor Authentication Service and you should know using this plug-in for you is completely free of charge but for using this service you need to have VANCOSYS OTP Tokens, For more information on how to getting a tokens please follow the link.
-*   [Official site](http://Vancosys.com): Vancosys Data Solutions Inc.
 
+**[Vancosys Data Solutions Inc](http://Vancosys.com)**
 
 
 WP Vancosys adds a security layer and 2 step authentication for WordPress using a Token as One Time Password generator.
-*Features and Capabilities*:
-	** Unique Secret key for each user **
-	** Making a user as OTP user **
-	** User Management **
-	** three different security mode for data protection**
-	** Forgetfulness code in case of lost or stolen OTP tokens**
-	** using a OTP token in several Websites  **
-	** Limitations on the number of errors when logging into with forgetfulness code**
-	** View the status of each user**
-	** Drift value for each OTP token that specifies time difference between server and OTP internal clock**
+
+Features and Capabilities:
+
+*	Unique Secret key for each user 
+*	Making a user as OTP user 
+*	User Management 
+*	three different security mode for data protection
+*	Forgetfulness code in case of lost or stolen OTP tokens
+*	using a OTP token in several Websites
+*	Limitations on the number of errors when logging into with forgetfulness code
+*	View the status of each user
+*	Drift value for each OTP token that specifies time difference between server and OTP internal clock
 == Installation ==
 
 1. Extract the downloaded archive into `wp-otp-vancosys` folder. If you downloaded the .zip archive it **contains** the `wp-otp-vancosys` folder.
